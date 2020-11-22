@@ -1,0 +1,7 @@
+E:\SampleProjects\EcomAPI\ECOM.Data\bin\Debug\ECOM.Data.dll.config
+E:\SampleProjects\EcomAPI\ECOM.Data\bin\Debug\ECOM.Data.dll
+E:\SampleProjects\EcomAPI\ECOM.Data\bin\Debug\ECOM.Data.pdb
+E:\SampleProjects\EcomAPI\ECOM.Data\bin\Debug\EntityFramework.dll
+E:\SampleProjects\EcomAPI\ECOM.Data\bin\Debug\EntityFramework.xml
+E:\SampleProjects\EcomAPI\ECOM.Data\obj\Debug\ECOM.Data.dll
+E:\SampleProjects\EcomAPI\ECOM.Data\obj\Debug\ECOM.Data.pdb
